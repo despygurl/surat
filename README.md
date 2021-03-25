@@ -1,2 +1,2 @@
 # surat
- Aplikasi ini digunakan untuk melakukan penomoran surat secara otomatis
+ Aplikasi sederhana yang digunakan untuk melakukan penomoran surat secara otomatis
